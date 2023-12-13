@@ -16,7 +16,7 @@ Meus interesses são em:
 ### Informações
 
 * No meu último ano de graduação em Matemática - Bacharelado pela UFPR
-* Técnico em Informatica formado pelo IFMS - __campus__ Corumbá
+* Técnico em Informatica formado pelo IFMS - _campus_ Corumbá
 * Bolsista pelo PET - Matemática da UFPR
 
 
