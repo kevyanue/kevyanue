@@ -1,5 +1,3 @@
-**(in english [below](https://github.com/kevyanue/kevyanue/edit/main/README.md#hello-im-kevyan-uehara))**
-
 # Olá, sou Kevyan Uehara
 
 Último ano do bacharelado em Matemática (UFPR), gosto de Álgebra, Teoria de Conjuntos e programação funcional. Habilidades em Python e ja me aventurei em Haskell algumas vezes. Mais informações no meu [__lattes__](http://lattes.cnpq.br/0913977570427665) e no meu blog (que ainda está sendo feito).
